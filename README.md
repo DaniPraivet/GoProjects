@@ -5,7 +5,7 @@ I'm trying to learn a new language, so I'm practicing it by doing little exercis
 
 - [x] Unit conversor
 - [x] CLI Calculator
-- [ ] Password Generator
+- [x] Password Generator
 - [ ] Word counter
 - [ ] Files renamer
 - [ ] CLI To-Do List
